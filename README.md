@@ -28,9 +28,9 @@ line 27: running the implemented function newton_raphson(x)
 
 ## Exmaple
 
- I have provided an example of the following function $$x^{3}+4x^{2}-x-4$$ and using its derivative as follows $$3x^{2}+8x-1$$
+ I have provided an example of the following function: $$x^{3}+4x^{2}-x-4$$ and using its derivative as follows: $$3x^{2}+8x-1$$
 
- The results after running the script are $$1, -1, -4 $$
+ The results after running the script are: $$1, -1, -4 $$
 
 ## License
 
