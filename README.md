@@ -22,8 +22,8 @@ where:
 ```
 line 8:  the function to be considered. Please change it accordingly
 line 12: the derivative of the function to be considered. Please change it accordingly
-line 24: the initial value / values
-line 27: running the implemented function newton_raphson(x)
+line 36: the initial value / values
+line 39: running the implemented function newton_raphson(x)
 ```
 
 ## Exmaple
